@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**tah00ra/tah00ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, this is Tahoora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### *Computer Software Student • Front-End Developer in Progress*
+
+</div>
+
+<br>
+
+## 👩‍💻 About Me
+
+I'm a Computer Software student with a growing passion for Front-End Development.
+
+I enjoy learning by building, exploring new ideas, and turning them into clean and simple web experiences.
+
+I'm not chasing perfection, I'm focused on making progress every day.
+
+<br>
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+<br>
+
+## 🌱 Currently Focusing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
+
+<div align="center">
+
+</div>
+
+<br>
+
+## 🎯 Goals
+
+- Become a professional Front-End Developer
+- Build clean and useful web applications
+- Keep learning through real-world projects
+
+<br>
+
+
+<br>
+
+
+
+---
+
+<div align="center">
+
+<sub>
+That's all. Thanks for visiting my profile!
+</sub>
+
+</div>
