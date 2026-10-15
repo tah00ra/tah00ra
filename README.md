@@ -3,7 +3,7 @@
 
 # Hi, this is Tahoora
 
-### *Computer Software Student • Front-End Developer in Progress*
+### *Computer Software Student • Front-End Developer*
 
 </div>
 
